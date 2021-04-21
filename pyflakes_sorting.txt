@@ -1,0 +1,15 @@
+************* Module main_sorting
+work/main_sorting.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+work/main_sorting.py:9:0: C0103: Constant name "Enter_choice" doesn't conform to UPPER_CASE naming style (invalid-name)
+work/main_sorting.py:15:0: C0103: Constant name "Enter_order" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module sorting_data
+work/sorting_data.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+work/sorting_data.py:1:0: C0103: Constant name "Formated_data" doesn't conform to UPPER_CASE naming style (invalid-name)
+work/sorting_data.py:4:0: C0103: Function name "Getting_data" doesn't conform to snake_case naming style (invalid-name)
+work/sorting_data.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+work/sorting_data.py:6:32: C0103: Variable name "Fil_name" doesn't conform to snake_case naming style (invalid-name)
+work/sorting_data.py:26:0: E1111: Assigning result of a function call, where the function has no return (assignment-from-no-return)
+work/sorting_data.py:26:0: C0103: Constant name "Final_load" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.70/10 (previous run: 6.23/10, +1.48)
